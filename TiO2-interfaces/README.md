@@ -1,2 +1,1 @@
-# Structure-Files
-Geometries and structures from various publications from the Deskins group.
+Files on rutile/anatase TiO2 interfaces from our paper: J.C. Garcia, M. Nolan, N.A. Deskins, The nature of interfaces and charge trapping sites in photocatalytic mixed-phase TiO2 from first principles modeling, J. Chem. Phys. 142 (2015) 024708.
