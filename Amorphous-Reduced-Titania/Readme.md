@@ -1,1 +1,1 @@
-This folder contains structure files (POSCAR and xyz) for reduced amorphous titania that we modeled in our 2017 PCCP paper. DOI:10.1039/C7CP02940C
+This folder contains structure files (POSCAR and xyz) for reduced amorphous titania (used in photocatalytic and electronic devices) that we modeled in our 2017 PCCP paper, available here: [DOI:10.1039/C7CP02940C](https://dx.doi.org/10.1039/C7CP02940C "DOI:10.1039/C7CP02940C").
