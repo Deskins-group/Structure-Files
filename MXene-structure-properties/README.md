@@ -1,6 +1,6 @@
 Different VASP input and output files are provided on our simulations of MXenes.
 
-- Geometry-Optimization.zip
+- Geometry-Optimization.tar.gz - contains input and output files for optimizing the MXene geometries. CONTCAR files of all the optimized geometries are also provided. 
 
 - BaderCharge_Ti3C2O2.tar.gz - contains essential input (INCAR, KPOINTS, POTCAR, POSCAR) and output (OUTCAR, CONTCAR, OZICAR) files for Bader charge calculations. The POSCAR file is an output (CONTCAR) of the PBE geometry optimization calculation. The resulting Bader charges are also given, in 'BaderCharges.txt'. No pre-processing is required before job submission. Post-processing code and instructions for Bader charge analysis from the Henkelman Group can be found here: https://theory.cm.utexas.edu/henkelman/code/bader/
 
